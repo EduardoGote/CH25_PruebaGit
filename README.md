@@ -12,4 +12,4 @@ Este proyecto incluye código `HTML` y está pensado para:
 5. Practicar para nuestro proyecto integrador
 ---
 
-### Gracias por tus aportaciones
+### Gracias por tus aportaciones y comentarios
